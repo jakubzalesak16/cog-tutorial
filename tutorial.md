@@ -17,33 +17,33 @@ Use command line in the beginning, it will make you understand!
 
 
 ## Useful commands to get you started
-git init
-git add
-git commit (will prompt you to)
+- git init
+- git add
+- git commit (will prompt you to)
 
 ### To know what you are doing
-_git log_
-_git status_
+- _git log_
+- _git status_
 
 ## To use branches / collaborate
-git branch
-git checkout -> change contents of the files in your working tree (folder) to be as in a commit or a branch - this is SAFE, it will not allow you to do so if you have uncommited changes
-git merge
-git rebase
+- git branch
+- git checkout -> change contents of the files in your working tree (folder) to be as in a commit or a branch - this is SAFE, it will not allow you to do so if you have uncommited changes
+- git merge
+- git rebase
 
 ## To access remote
-git push -> pushes changes
-git pull -> get changes
-git fetch -> get changes from remote, but do not checkout them or change files in your   
+- git push -> pushes changes
+- git pull -> get changes
+- git fetch -> get changes from remote, but do not checkout them or change files in your   
 
 ## Extremely useful tools
-git stash
-git reset
-git reflog
-git tag
-git blame
-git bisect
-git hooks
+- git stash
+- git reset
+- git reflog
+- git tag
+- git blame
+- git bisect
+- git hooks
 
 ## Looking at differences
 - git diff (basically the GNU diff uitility)
