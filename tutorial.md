@@ -5,7 +5,9 @@ Here is a summary of a COG talk on Git that took place online, an 2020-03-17.
 ## Useful concepts we talked about
 - analogy with working tree (papers on desk), staging area (shoe box to which I copy file snippets), and repository (stack of such shoe boxes)
 - remote repositories -> these do not have a working tree and are initialised with `git init --bare` or online, e.g. via GitHub.
-Use command line in the beginning, it will make you understand!
+
+
+__ Use command line in the beginning, it will make you understand! __
 
 ## Useful links
 - git playground, will make you understand concepts, displays graph [https://git.sergiocabral.com/]
@@ -47,7 +49,8 @@ Use command line in the beginning, it will make you understand!
 
 ## Looking at differences
 - git diff (basically the GNU diff uitility)
-- meld (visual tool, my favourite)
+- meld (visual tool, my favourite, even for files outside of git)
+- any of the frontend tools
 
 ## Configurations
 - levels
@@ -64,13 +67,13 @@ Use command line in the beginning, it will make you understand!
 ## Front-ends
 - Github clent
 - sourcetree (developed by Bitbucket)
-- sublime merge (my favourite, integrates with sublime-text and shares same ideology)
+- sublime merge (my favourite, integrates with sublime-text and shares same ideology, _powerful, but hacky_)
 - tortoise git - in LabVIEW tutorial
 - MATLAB - access via file browser panel (initialise via command line in the folder to show)
 - meld - diffs
 
 
 ## Online services
-Github - ucl has 'pro' account which allows more private collaborators and unlimited private repos, open-source standard
-bitbucket - simple, unlimited collaborators for free (less features then Github but mostly sufficient, no ssh key access though)
-Gitlab - self hosted, fully-integrated, user friendly, industry standard
+- Github - ucl has 'pro' account which allows more private collaborators and unlimited private repos, open-source standard
+- Bitbucket - simple, unlimited collaborators for free (less features then Github but mostly sufficient, no ssh key access though)
+- Gitlab - self hosted, fully-integrated, user friendly, industry standard
