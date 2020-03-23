@@ -4,10 +4,12 @@ Here is a summary of a COG talk on Git that took place online, an 2020-03-17.
 
 ## Useful concepts we talked about
 - analogy with working tree (papers on desk), staging area (shoe box to which I copy file snippets), and repository (stack of such shoe boxes)
+![drawing of a working tree, shoebox and stack of shoeboxes]("assets/git_space_concept.PNG")
+
 - remote repositories -> these do not have a working tree and are initialised with `git init --bare` or online, e.g. via GitHub.
 
 
-__ Use command line in the beginning, it will make you understand! __
+__Use command line in the beginning – it will make you understand!__
 
 ## Useful links
 - git playground, will make you understand concepts, displays graph [https://git.sergiocabral.com/]
