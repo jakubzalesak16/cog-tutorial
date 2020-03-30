@@ -83,5 +83,5 @@ __Use command line in the beginning – it will make you understand!__
 
 ## Handling large files
 - git-annex - git solution for truly decentralised storage
-- git-lfs - plugin for storing large files, possibly on external servers
+- git-lfs - plugin for storing large files, possibly on external servers - _built by GitHub, mainly targeted at GitHub integration - somewhat difficult to use standalone_
 - (see section "similar software" and "what git-annex is not" of git-annex website for many more solutions!) 
