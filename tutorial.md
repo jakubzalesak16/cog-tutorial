@@ -1,6 +1,6 @@
 Git tutorial summary
 ====================
-Here is a summary of a COG talk on Git that took place online, an 2020-03-17.
+Here is a summary of a COG talk on Git that took place online, on 2020-03-17.
 
 ## Useful concepts we talked about
 - analogy with working tree (papers on desk), staging area (shoe box to which I copy file snippets), and repository (stack of such shoe boxes)
@@ -78,4 +78,10 @@ __Use command line in the beginning – it will make you understand!__
 ## Online services
 - Github - ucl has 'pro' account which allows more private collaborators and unlimited private repos, open-source standard
 - Bitbucket - simple, unlimited collaborators for free (less features then Github but mostly sufficient, no ssh key access though)
-- Gitlab - self hosted, fully-integrated, user friendly, industry standard
+- Gitlab - can be self hosted, fully-integrated, user friendly, industry standard
+
+
+## Handling large files
+- git-annex - git solution for truly decentralised storage
+- git-lfs - plugin for storing large files, possibly on external servers
+- (see section "similar software" and "what git-annex is not" of git-annex website for many more solutions!) 
