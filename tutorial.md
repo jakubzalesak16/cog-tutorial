@@ -85,3 +85,9 @@ or add it in your config file under `[aliases]`
 - Github - ucl has 'pro' account which allows more private collaborators and unlimited private repos, open-source standard
 - Bitbucket - simple, unlimited collaborators for free (less features then Github but mostly sufficient, no ssh key access though)
 - Gitlab - self hosted, fully-integrated, user friendly, industry standard
+
+## Handling large files
+- git-annex - git solution for truly decentralised storage
+- git-lfs - plugin for storing large files, possibly on external servers - _built by GitHub, mainly targeted at GitHub integration - somewhat difficult to use standalone_
+- (see section "similar software" and "what git-annex is not" of git-annex website for many more solutions!) 
+
